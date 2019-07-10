@@ -5,17 +5,21 @@
 </p>
 <br/>
 <br/>
+<!-- 
+
 <p align="center">
   <span>微信 支付宝 QQ钱包</span>
 </p>
 <br/>
-<!-- <p align="center">
+<p align="center">
   <a href="https://github.com/javen205/donate" target="blank"><img src="./images/donate.png" width="400" alt="Donate" /></a>
-</p> -->
+</p>
 
-|                             微信                             |                            支付宝                            |
-| :----------------------------------------------------------: | :----------------------------------------------------------: |
-| <img src="./images/wxpay.png" width = "170" alt="Donate" align=center /> | <img src="./images/alipay.png" width = "200" alt="Donate" align=center />|
+-->
+
+|                             微信                             |                            支付宝                            | QQ 钱包 |
+| :----------------------------------------------------------: | :----------------------------------------------------------: | ------- |
+| <img src="./images/wxpay.png" width = "170" alt="Donate" align=center /> | <img src="./images/alipay.png" width = "200" alt="Donate" align=center /> |    <img src="./images/qqpay.png" width = "180" alt="Donate" align=center />     |
 
 
 
